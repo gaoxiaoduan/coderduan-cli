@@ -1,7 +1,7 @@
 {
-  "name": "duan-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "coderduan-cli",
+  "version": "1.0.1",
+  "description": "coderduan-cli 可以快速创建一个vue2的脚手架项企业级项目，开箱即用📦",
   "main": "index.js",
   "bin": {
     "duan": "index.js"
@@ -18,10 +18,10 @@
   ],
   "author": "coderduan",
   "license": "MIT",
-  "homepage": "https://github.com/gaoxiaoduan/duan-cli.git",
+  "homepage": "https://github.com/gaoxiaoduan/duan-cli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaoxiaoduan/duan-cli.git"
+    "url": "https://github.com/gaoxiaoduan/duan-cli"
   },
   "dependencies": {
     "chalk": "^4.1.2",

@@ -12,7 +12,7 @@
 ## 使用教程
 1. 如何安装？
 ```bash
-npm install -g duan-cli
+npm install -g coderduan-cli
 ```
 
 2. 如何创建项目？

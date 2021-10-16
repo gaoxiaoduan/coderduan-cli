@@ -1,6 +1,6 @@
 {
   "name": "coderduan-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "coderduan-cli 可以快速创建一个vue2的脚手架项企业级项目，开箱即用📦",
   "main": "index.js",
   "bin": {
